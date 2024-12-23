@@ -59,7 +59,7 @@ LIMITS = {
 ### 5️⃣ Lancez le script
 Dans le terminal, exécutez le script :
 ```bash
-python script.py
+python3 main.py
 ```
 
 Vous devriez voir dans le terminal des messages indiquant la détection des dispositifs et l’état du serveur OSC.
@@ -78,7 +78,7 @@ Assurez-vous que VRChat envoie les messages OSC vers l’adresse IP et le port d
 
 - **Démarrage du script :**
   ```bash
-  python script.py
+  python3 main.py
   ```
 
 - **Configuration réseau OSC dans VRChat :**
